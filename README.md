@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... technology
 - 🌱 I’m currently learning ...python backend
 - 💞️ I’m looking to collaborate on ...tech projects
-- 📫 How to reach me ...my email
+- 📫 How to reach me ... pietmotloutsi@gmail.com
 
 <!---
 Matola99/Matola99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
